@@ -1,0 +1,341 @@
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Chat.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\pLoTo\source\repos\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Downloads\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.exe
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\OutlookDemo.pdb
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\EntityFramework.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\Guna.UI2.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Buffers.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Memory.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\EntityFramework.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Buffers.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Memory.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.exe
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.pdb
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\x86\sqlite3.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\bin\Debug\x64\sqlite3.dll
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+F:\LOYIHALAR\C# dan dasturlarim\TUGAMAGAN ISHLARIM\mytest statistika dasturi\codeinpc.comOutlookDemo\OutlookDemo\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Source\Repos\SaodatovQuvonchbek\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Source\Repos\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csprojAssemblyReference.cache
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Users\Soadatov_q\Desktop\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\.net\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.Sotsoalagik.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.Sotsoalagik.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+D:\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.Sotsoalagik.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Hariy meros\рфкишн ьукщы\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x86\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\x64\sqlite3.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe.config
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.exe
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\OutlookDemo.pdb
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Guna.UI2.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.core.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Buffers.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Data.SQLite.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Memory.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Numerics.Vectors.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.AssemblyReference.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.SuggestedBindingRedirects.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Form1.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.Properties.Resources.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.AddData.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.Sotsoalagik.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.statistika.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.UC_Inbox.resources
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.GenerateResource.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CoreCompileInputs.cache
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.csproj.CopyComplete
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.exe
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.pdb
+C:\Intel\internetdan yuklaganlarim\Hariy meros\Harbiymeros-adminpanel\Harbiymeros-adminpanel\OutlookDemo\obj\Debug\OutlookDemo.UserControls.sot.resources
