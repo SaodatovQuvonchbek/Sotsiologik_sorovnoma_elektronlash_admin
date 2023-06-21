@@ -1,0 +1,1 @@
+# Sotsiologik_sorovnoma_elektronlashtirish
